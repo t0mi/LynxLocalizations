@@ -1,4 +1,4 @@
-﻿"COLOR_PICKER_SUBTITLE" = "Wische nach links, um die Farbe festzulegen.";
+"COLOR_PICKER_SUBTITLE" = "Wische nach links, um die Farbe festzulegen.";
 "COLOR_PICKER_DISABLED" = "Eigene deaktivierte Farbe";
 "HOTSPOT" = "Hotspot";
 "BLUETOOTH" = "Bluetooth";
@@ -8,3 +8,6 @@
 "CONNECTIVITY" = "Konnektivität";
 "WIFI" = "WLAN";
 "AIRDROP" = "AirDrop";
+"INVALID_VALUE" = "Ungültiger Wert";
+"NUMERICAL_VALUE" = "Bitte gib einen numerischen Wert ein";
+"MAXIMUM_VALUE" = "Maximalwert: ";
