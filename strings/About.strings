@@ -15,7 +15,6 @@
 "IMPORT" = "Import";
 "RESET" = "Reset";
 "OKAY" = "Okay";
-"RESET_SETTINGS" = "Reset Settings";
 "TRANSLUCENT_SETTINGS" = "Use Translucent Settings";
 "TRANSLUCENT_SETTINGS_SUBTITLE" = "Show all Lynx settings views with blurred background";
 "OPEN_LOCALIZATIONS" = "Localizations";
