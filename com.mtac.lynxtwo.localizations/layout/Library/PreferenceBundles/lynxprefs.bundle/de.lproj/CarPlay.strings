@@ -1,4 +1,4 @@
-﻿"ICONS" = "Icons";
+"ICONS" = "Icons";
 "USE_AVERAGE_BADGES_SUBTITLE" = "Kennzeichenfarbe basierend auf App-Icon.";
 "SHOW_BATTERY" = "Batterie anzeigen";
 "CUSTOM_ICON_LAYOUT_SUBTITLE" = "Legt die Anzahl der Icon-Spalten fest.";
@@ -20,3 +20,11 @@
 "STATUS_BAR_EDGE_SUBTITLE" = "Wähle aus, wo die Statusleiste angezeigt werden soll.";
 "CUSTOM_ICON_LAYOUT" = "Eigenes Layout verwenden";
 "SHOW_WEATHER_SUBTITLE" = "Zeigt die aktuelle Temperatur in der Statusleiste an.";
+"CUSTOM_ICON_LAYOUT_COLUMNS" = "Eigene Spalten";
+"CUSTOM_ICON_LAYOUT_ROWS" = "Eigene Reihen";
+"CUSTOM_ICON_LAYOUT_SUBTITLE_COLUMNS" = "Anzahl der Icon-Spalten festlegen";
+"CUSTOM_ICON_LAYOUT_SUBTITLE_ROWS" = "Anzahl der Icon-Reihen festlegen";
+"CUSTOM_ICON_SIZE" = "Eigene Icongrösse";
+"CUSTOM_ICON_SIZE_SUBTITLE" = "Größe der angezeigten Icons einstellen";
+"HIDE_BLUR_VIEW" = "Unschärfe ausblenden";
+"HIDE_BLUR_VIEW_SUBTITLE" = "Unschärfe aus der Statusleiste entfernen";
