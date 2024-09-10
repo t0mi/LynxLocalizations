@@ -23,3 +23,13 @@
 "EDIT_LAYOUT" = "Layout bearbeiten";
 "SWIPE_ACTIONS" = "Wische, um den Wert festzulegen und zurückzusetzen.";
 "RESET_ALL" = "Layout zurücksetzen";
+"HOMESCREEN_ROWS" = "Home-Bildschirm-Zeilen:";
+"COLUMNS" = "Spalten:";
+"ROWS" = "Reihen:";
+"TOP_INSET" = "Oberer Einschub:";
+"BOTTOM_INSET" = "Unterer Einschub:";
+"LEFT_INSET" = "Linker Einschub:";
+"RIGHT_INSET" = "Rechter Einschub:";
+"HORIZONTAL_SPACING" = "Horizontaler Abstand:";
+"VERTICAL_SPACING" = "Vertikaler Abstand:";
+"ICONS" = "Icons:";
