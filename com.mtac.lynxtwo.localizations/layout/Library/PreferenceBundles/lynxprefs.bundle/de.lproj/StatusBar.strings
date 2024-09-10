@@ -102,3 +102,11 @@
 "AUDIO_DEVICES" = "Audiogeräte";
 "SHOW_CELL_RSSI" = "Mobil-RSSI anzeigen";
 "CARRIER_TEXT_SUBTITLE" = "Eigenen Netzbetreiber-Text anzeigen.";
+"HIDE_NOTCH_SUBTITLE" = "Ansicht hinzufügen, um Notch/Dynamic Island auszublenden";
+"DISABLE_ISLAND_OUTLINE" = "Aussenlinie deaktiveren";
+"DISABLE_ISLAND_OUTLINE_SUBTITLE" = "Linie vom Rand der Dynamic Island entfernen";
+"DYNAMIC_ISLAND" = "Dynamic Island";
+"SIGNAL_BARS" = "Signalbalken";
+"SHOW_LOCKSCREEN_STATUSBAR_TIME" = "Zeigt immer die Uhrzeit an";
+"SHOW_LOCKSCREEN_STATUSBAR_TIME_SUBTITLE" = "Zeit in der Statusleiste auf dem Sperrbildschirm anzeigen (iPhone X+)";
+"HIDE_BEDTIME_ITEM" = "Schlafenszeit-Symbol ausblenden";
