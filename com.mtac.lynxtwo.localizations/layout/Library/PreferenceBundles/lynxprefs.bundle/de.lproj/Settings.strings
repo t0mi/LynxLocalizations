@@ -35,3 +35,8 @@
 "HIDE_FAMILY_SPECIFIER_SUBTITLE" = "Entfernt die Familien-Zelle aus dem Abschnitt „Apple-ID“.";
 "HIDE_VPN" = "VPN ausblenden";
 "SHOW_DATA_USAGE" = "Datennutzung anzeigen";
+"WALLPAPER_BLUR_STYLE" = "Unschärfestil";
+"WALLPAPER_BLUR_STYLE_SUBTITLE" = "Wähle den Unschärfestil für die Hintergrundüberlagerung";
+"TITLE" = "Titel";
+"HIDE_SETTINGS_TITLE" = "Titel ausblenden";
+"HIDE_SETTINGS_TITLE_SUBTITLE" = "Entfernt die Beschriftung 'Einstellungen' von der Haupteinstellungsseite";
