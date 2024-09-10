@@ -140,3 +140,15 @@
 "CUSTOM_FONT_SUBTITLE" = "Lege Schriftfamilie, -größe und -stärke fest.";
 "CARPLAY_TITLE" = "Overlay deaktivieren";
 "DISABLE_CAMERA_SWIPE_SUBTITLE" = "Enfernt die Wischgeste, hält die Funktionalität aber bei.";
+"HIDE_LEGAL_TEXT" = "Gesetzestext ausblenden";
+"HIDE_LEGAL_TEXT_SUBTITLE" = "Rechtstext vom Sperr-Bildschirm entfernen";
+"USE_CUSTOM_NOTIFICATION_TEXT" = "Verwende einen eigenen Header-Titel";
+"USE_CUSTOM_NOTIFICATION_TEXT_SUBTITLE" = "Ändere 'Benachrichtigungszentrum' Beschriftungstext"";
+"CUSTOM_NOTIFICATION_CENTER_PLACEHOLDER" = "Benachrichtigungszentrum";
+"SYSTEM_FONTS" = "System-Schriftarten";
+"USER_FONTS" = "Eigene Schriftarten";
+"LIST_OFFSET" = "Listen-Versatz";
+"FONT_SIZE" = "Schriftgröße:";
+"QUIET_MODE" = "Schlafen-Fokus";
+"HIDE_QUIET_MODE_INDICATOR" = "Schlafen-Fokus ausblenden";
+"HIDE_QUIET_MODE_INDICATOR_SUBTITLE" = "Entfernt den Schlafen-Fokus vom unteren Rand des Sperr-Bildschirms, wenn der Schlafen-Fokus aktiviert ist";
