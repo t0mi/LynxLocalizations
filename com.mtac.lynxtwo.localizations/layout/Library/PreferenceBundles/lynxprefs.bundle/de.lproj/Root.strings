@@ -50,3 +50,9 @@
 "MORE_HEADER" = "Mehr";
 "CARPLAY" = "CarPlay";
 "SYSTEM_HEADER" = "System";
+"CANCEL" = "Abbrechen";
+"DISMISS" = "Verwerfen";
+"CURRENT_VALUE" = "Aktueller Wert";
+"APPLY" = "Anwenden";
+"SET_VALUE" = "Wert festlegen";
+"RESET" = "Zurücksetzen";
