@@ -88,3 +88,13 @@
 "HIDE_LABELS_FL_SUBTITLE" = "Beinhaltet Ordner in der App-Mediathek.";
 "SWIPE_ACTIONS" = "Wische, um den Wert festzulegen und zurückzusetzen.";
 "UNLOCK_APP" = "Entsperren";
+"FONT_SIZE" = "Schriftgröße";
+"SCALE" = "Skalierung";
+"FOLDER_BADGE_STYLE" = "Ordnerstil";
+"FOLDER_BADGE_STYLE_SUBTITLE" = "Wähle den Stil der Abzeichen auf Ordnersymbolen";
+"HIGHEST_NUMBER" = "Höchste Zahl";
+"FIRST_APPLICATION" = "Erste App";
+"COLOR_ALGORITHM" = "Hintergrundfarbe";
+"COLOR_ALGORITHM_SUBTITLE" = "Wähle die Methode aus, um die durchschnittliche Farbe zu ermitteln";
+"TEXT_COLOR_ALGORITHM" = "Textfarbe";
+"TEXT_COLOR_ALGORITHM_SUBTITLE" = "Wähle die Methode zum Färben des Abzeichentextes aus";
